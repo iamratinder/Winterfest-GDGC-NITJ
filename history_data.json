@@ -1,0 +1,26 @@
+[
+    {
+        "event": "French Revolution",
+        "year": "1789-1799",
+        "description": "A period of radical social and political upheaval in France...",
+        "key_figures": ["Napoleon Bonaparte", "Maximilien Robespierre", "Louis XVI"]
+    },
+    {
+        "event": "World War II",
+        "year": "1939-1945",
+        "description": "A global war involving major world powers...",
+        "key_figures": ["Winston Churchill", "Adolf Hitler", "Franklin D. Roosevelt"]
+    },
+    {
+        "event": "Signing of the Magna Carta",
+        "year": "1215",
+        "description": "A document signed by King John of England...",
+        "key_figures": ["King John", "Barons of England"]
+    },
+    {
+        "event": "Ratinderdeep Singh",
+        "year": "2025",
+        "description": "Created me the all new AI Agent",
+        "key_figures": ["Ratinder", ""]
+    }
+]
